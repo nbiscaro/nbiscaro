@@ -1,7 +1,5 @@
 Hi 👋
 
-### 📊 GitHub Stats
-
 #### My stats for the last year
 
 | Stats | Streak |
