@@ -2,9 +2,7 @@ Hi 👋
 
 #### My stats for the last year
 
-| Stats | Streak |
-|-------|--------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=nbiscaro&show_icons=true&theme=transparent&border_color=30363d&text_color=c9d1d9&title_color=58a6ff) | [![GitHub Streak](https://streak-stats.demolab.com/?user=nbiscaro)](https://git.io/streak-stats) |
+![Stats](https://github-readme-stats.vercel.app/api?username=nbiscaro&show_icons=true&theme=transparent&border_color=30363d&text_color=c9d1d9&title_color=58a6ff) 
 
 #### My most used languages
 
